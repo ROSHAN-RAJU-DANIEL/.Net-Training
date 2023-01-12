@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2-Assignment", "Day2-Ass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPConcepts", "OOPConcepts\OOPConcepts.csproj", "{EF962EBC-D932-44D0-8522-41D85F4CF05F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3Assignments", "Day3Assignments\Day3Assignments.csproj", "{2BB7E2D0-9628-49D0-8D72-2ED79BB69DE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3AssignmentContacts", "Day3Assignments\Day3AssignmentContacts.csproj", "{2BB7E2D0-9628-49D0-8D72-2ED79BB69DE7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3ShoppingCart", "Day3ShoppingCart\Day3ShoppingCart.csproj", "{F82E93BE-F931-4E42-9EE6-09AE8D6F9D44}"
 EndProject
