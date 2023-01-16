@@ -25,15 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysLists", "ArraysLists\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2-Assignment", "Day2-Assignment\Day2-Assignment.csproj", "{8E40335D-12F5-41CB-A729-0DE8F0C0D417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPConcepts", "OOPConcepts\OOPConcepts.csproj", "{EF962EBC-D932-44D0-8522-41D85F4CF05F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPConcepts", "OOPConcepts\OOPConcepts.csproj", "{EF962EBC-D932-44D0-8522-41D85F4CF05F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3AssignmentContacts", "Day3Assignments\Day3AssignmentContacts.csproj", "{2BB7E2D0-9628-49D0-8D72-2ED79BB69DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3AssignmentContacts", "Day3Assignments\Day3AssignmentContacts.csproj", "{2BB7E2D0-9628-49D0-8D72-2ED79BB69DE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3ShoppingCart", "Day3ShoppingCart\Day3ShoppingCart.csproj", "{F82E93BE-F931-4E42-9EE6-09AE8D6F9D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3ShoppingCart", "Day3ShoppingCart\Day3ShoppingCart.csproj", "{F82E93BE-F931-4E42-9EE6-09AE8D6F9D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_FrenchDeck", "Assignment_FrenchDeck\Assignment_FrenchDeck.csproj", "{1F5D8901-C7C3-406A-8586-E8DCF6083475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_FrenchDeck", "Assignment_FrenchDeck\Assignment_FrenchDeck.csproj", "{1F5D8901-C7C3-406A-8586-E8DCF6083475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Balance", "Assignment_Balance\Assignment_Balance.csproj", "{9E3676FA-7A77-46A6-B112-C9C6612BD37F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Balance", "Assignment_Balance\Assignment_Balance.csproj", "{9E3676FA-7A77-46A6-B112-C9C6612BD37F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postgres_Connection", "Postgres_Connection\Postgres_Connection.csproj", "{0ABD6D52-52BA-4C00-A1F3-FAB095485244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{9E3676FA-7A77-46A6-B112-C9C6612BD37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E3676FA-7A77-46A6-B112-C9C6612BD37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E3676FA-7A77-46A6-B112-C9C6612BD37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
