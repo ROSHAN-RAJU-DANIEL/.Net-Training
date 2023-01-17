@@ -2,7 +2,10 @@
 
 // Type Conversion
 
+// we can intialize a string as this
 String fullName = string.Empty;
+
+
 int age = 0;
 double salary = 0.0;
 char gender = char.MinValue;
@@ -13,6 +16,7 @@ bool working = false;
 Console.Write("Please enter your name:");
 fullName = Console.ReadLine();
 
+// we have to convert the reading value to int.basically readline returns string type
 Console.Write("Please enter your age:");
 age = Convert.ToInt32(Console.ReadLine());
 
