@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Balance", "Assig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postgres_Connection", "Postgres_Connection\Postgres_Connection.csproj", "{0ABD6D52-52BA-4C00-A1F3-FAB095485244}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication-AutoMapper", "..\..\WebApplication-AutoMapper\WebApplication-AutoMapper.csproj", "{3FF28D73-972A-4084-A99E-EC2E00F30408}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ABD6D52-52BA-4C00-A1F3-FAB095485244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF28D73-972A-4084-A99E-EC2E00F30408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF28D73-972A-4084-A99E-EC2E00F30408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF28D73-972A-4084-A99E-EC2E00F30408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF28D73-972A-4084-A99E-EC2E00F30408}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
